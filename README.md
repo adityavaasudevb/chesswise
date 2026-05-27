@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python chess_engine.py
+python main.py
 ```
 
 By default this runs a Bot vs Bot demo at depth 3. To play against the bot, edit the `__main__` block:
